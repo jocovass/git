@@ -1,2 +1,3 @@
 # git
-Doing some exercises with GIT.
+
+This project is about learning git troughly.
